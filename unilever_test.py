@@ -13,6 +13,8 @@ import re
 # Creating a dataframe by passing a list of objects
 import pandas as pd
 
+import sqlalchemy
+
 # To define dataframe, and content in regular expression 
 pattern = '\|(.*)\|'
 
